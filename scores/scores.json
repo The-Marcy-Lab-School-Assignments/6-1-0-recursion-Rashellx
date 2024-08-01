@@ -10,8 +10,8 @@
       "FrScTe7": 1,
       "FrScTe8": 1,
       "FrScTe9": 1,
-      "FrScTe10": 0,
-      "FrScTe11": 0,
+      "FrScTe10": 1,
+      "FrScTe11": 1,
       "FrScTe12": 0,
       "FrScTe13": 0
     }
@@ -47,7 +47,7 @@
     "From Scratch Tests binarySearch is written recursively": "FrScTe13"
   },
   "humanReadable": {
-    "From Scratch Tests": "9/13",
-    "finalTestScore": "FINAL SCORE: 9/13"
+    "From Scratch Tests": "11/13",
+    "finalTestScore": "FINAL SCORE: 11/13"
   }
 }

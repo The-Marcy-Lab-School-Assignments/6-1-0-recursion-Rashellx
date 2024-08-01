@@ -38,7 +38,12 @@ const fibIter = (n) => {
 
 
 // Recursive fibonacci
-const fibRec = (n) => { };
+const fibRec = (n) => {
+  if (n <= 1) return n
+
+  return fibRec(n - 1) + fibRec(n - 2)
+};
+
 
 // Return the index of target in arr, or -1 if not found using recursion
 const binarySearch = (arr, target, start = 0, end = arr.length - 1) => { };
